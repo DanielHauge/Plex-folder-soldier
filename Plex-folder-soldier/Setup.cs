@@ -10,7 +10,6 @@ namespace Plex_folder_soldier
     {
         private static readonly string Exe = Process.GetCurrentProcess().MainModule?.FileName;
         private static readonly string Command = $"{Exe} %1";
-
         private static readonly char Sep = Path.DirectorySeparatorChar;
 
         public static void Run()

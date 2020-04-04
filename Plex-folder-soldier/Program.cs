@@ -26,8 +26,5 @@ namespace Plex_folder_soldier
                 }
             }
         }
-
-
-        
     }
 }
