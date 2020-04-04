@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Plex_folder_soldier
 {
-   public static class StringDistance
+    public static class StringDistance
     {
         /// <summary>
         /// Compute the distance between two strings.
